@@ -23,4 +23,11 @@ Other basic changes from the link - http://code.google.com/r/jaxtrx-edenodkcolle
 ServerPreferences.java is refactored to PreferencesActivity.java
 
 
+Instructions to run the project :
+
+- Download the zip of the project code from Github (Use the clone in Mac or the ZIP option)
+- Setup eclipse with android plugin.
+- Go to Import projects -> Android-> Existing Android Code Into Workspace ->Browse to the path where project was downloaded -> Finish
+- Run the project in Debug mode and select an Android 4.1 device and run it on emulator. 
+- Get all the forms, fill one of them and try submitting the form. 
 
